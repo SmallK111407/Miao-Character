@@ -4,15 +4,13 @@
 Miao-Plugin的角色面板彩蛋图库
 
 #### 图库说明
-```
-此库提供由我制作抠制的角色面板背景图
-后续可能会授权上传其他人的...咕咕咕
-```
+
+此库提供由我或他人抠制的自主上传的角色面板彩蛋图<br>
+如果您想为此仓库贡献<br>
+请见☞[贡献指南](./CONTRIBUTING.md)向此仓库发起 pull request
 
 #### 食用方法
-```
 下载压缩包或者拉取git后把Miao-Super-Character/super-character与喵喵插件内super-character合并覆盖即可
-```
 
 #### 下载方法
 ```
