@@ -33,6 +33,14 @@ Yunzai-Bot/plugins/miao-plugin/resources/profile/super-character
 |曉K|1509293009|super-character|
 |...|...|super-character2|
 
+<br>
+
+## 发布内容
+
+请参考☞[贡献指南](./CONTRIBUTING.md)向此仓库发起 pull request
+
+<br>
+
 #### 版权免责声明
 图片仅限内部交流与小范围使用，请勿将此模板图库用于任何以盈利为目的的场景
 
