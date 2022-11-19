@@ -53,5 +53,3 @@ Yunzai-Bot/plugins/miao-plugin/resources/profile/super-character
 
 #### 其他
 * 最后再求一个star~，您的支持是维护本项目的动力
-* 交流群号：[475547382](https://jq.qq.com/?_wv=1027&k=OhBjBPau)
-* 赞助支持：[爱发电](https://afdian.net/a/SunRyK)
