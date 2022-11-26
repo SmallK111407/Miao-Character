@@ -1,7 +1,7 @@
-# Super-Character images for Miao-Plugin
+# Character images for Miao-Plugin
 
 #### 用途介绍
-Miao-Plugin的角色面板彩蛋图库
+Miao-Plugin的角色面板(彩蛋)图库
 
 #### 图库说明
 
@@ -10,26 +10,29 @@ Miao-Plugin的角色面板彩蛋图库
 请见☞[贡献指南](./CONTRIBUTING.md)向此仓库发起 pull request
 
 #### 食用方法
-下载压缩包或者拉取git后把Miao-Super-Character/super-character与喵喵插件内super-character合并覆盖即可
+下载压缩包或者拉取git后自行挑选character文件夹内文件存放至`彩蛋或普通面板`位置即可使用
 
 #### 下载方法
 ```
 使用Github
-git clone https://github.com/SmallK111407/Miao-Super-Character.git
+git clone https://github.com/SmallK111407/Miao-Character.git
 使用Gitee
-git clone https://gitee.com/SmallK111407/Miao-Super-Character.git
+git clone https://gitee.com/SmallK111407/Miao-Character.git
 ```
 
 #### 存放位置:
 ```
+彩蛋(三皇冠/ACE/满命)存放位置
 Yunzai-Bot/plugins/miao-plugin/resources/profile/super-character
+普通面板(图鉴/非彩蛋面板等)存放位置
+Yunzai-Bot/plugins/miao-plugin/resources/profile/normal-character
 ```
 
 #### 作者列表(已授权转载搬运)
 | 作者 | QQ | 所属图库文件夹 |
 | --- | --- | --- |
-|曉K|1509293009|super-character|
-|...|...|super-character2|
+|曉K|1509293009|character|
+|亿声要强的老Baby|404315862|character2|
 
 <br>
 
