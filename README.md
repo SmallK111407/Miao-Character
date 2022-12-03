@@ -29,10 +29,10 @@ Yunzai-Bot/plugins/miao-plugin/resources/profile/normal-character
 ```
 
 #### 作者列表(已授权转载搬运)
-| 作者 | QQ | 所属图库文件夹 |
-| --- | --- | --- |
-|曉K|1509293009|character|
-|亿声要强的老Baby|404315862|character2|
+| 作者 | QQ |
+| --- | --- |
+|曉K|1509293009|
+|亿声要强的老Baby|404315862|
 
 <br>
 
