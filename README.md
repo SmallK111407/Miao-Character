@@ -1,5 +1,10 @@
 # Character images for Miao-Plugin
 
+[![访问量](https://visitor-badge.glitch.me/badge?page_id=SmallK111407.Miao-Character&right_color=red&left_text=访%20问%20量)](https://github.com/SmallK111407/Miao-Character)
+[![Stars](https://img.shields.io/github/stars/SmallK111407/Miao-Character?color=yellow&label=收藏)](../../stargazers)
+
+[![访问量](https://profile-counter.glitch.me/SmallK111407-Miao-Character/count.svg)](https://github.com/SmallK111407/Miao-Character)
+
 #### 用途介绍
 Miao-Plugin的角色面板(彩蛋)图库
 
